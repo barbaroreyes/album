@@ -260,8 +260,12 @@ footer{
 	.container{
 		width: 100%;
 	}
+	#btn{
+	 text-align: center;	
+	 width: 80%;
+	}
        .secundaria  {
-				width: 100%;
+		  width: 100%;
  		  flex-direction:column;
    	}
 		.secundaria div{
